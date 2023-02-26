@@ -15,3 +15,4 @@ public class JvmComprehension {
         System.out.println(o.toString() + i + ii);  // 6
     }
 }
+
